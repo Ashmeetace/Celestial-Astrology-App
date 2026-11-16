@@ -1,0 +1,6 @@
+{
+  "name": "Celestial Stars - Astrological Future & Comic Horoscopes",
+  "description": "Predict your future and daily horoscope with personalised comic insights, real-time planetary orbits, and verified astrologers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
